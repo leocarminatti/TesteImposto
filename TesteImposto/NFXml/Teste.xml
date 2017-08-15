@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NotaFiscal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>0</Id>
+  <NumeroNotaFiscal>99999</NumeroNotaFiscal>
+  <Serie>379637023</Serie>
+  <NomeCliente>Leonardo Teste</NomeCliente>
+  <EstadoDestino>PR</EstadoDestino>
+  <EstadoOrigem>SP</EstadoOrigem>
+  <ItensDaNotaFiscal>
+    <NotaFiscalItem>
+      <Id>0</Id>
+      <IdNotaFiscal>0</IdNotaFiscal>
+      <Cfop>6.004</Cfop>
+      <TipoIcms>10</TipoIcms>
+      <BaseIcms>325</BaseIcms>
+      <AliquotaIcms>0.17</AliquotaIcms>
+      <ValorIcms>55.250000000000007</ValorIcms>
+      <NomeProduto>mesa</NomeProduto>
+      <CodigoProduto>520</CodigoProduto>
+      <BaseIpi>325</BaseIpi>
+      <AliquotaIpi>0</AliquotaIpi>
+      <ValorIpi>0</ValorIpi>
+      <Desconto>0.1</Desconto>
+    </NotaFiscalItem>
+    <NotaFiscalItem>
+      <Id>0</Id>
+      <IdNotaFiscal>0</IdNotaFiscal>
+      <Cfop>6.004</Cfop>
+      <TipoIcms>10</TipoIcms>
+      <BaseIcms>50</BaseIcms>
+      <AliquotaIcms>0.17</AliquotaIcms>
+      <ValorIcms>8.5</ValorIcms>
+      <NomeProduto>cadeira</NomeProduto>
+      <CodigoProduto>521</CodigoProduto>
+      <BaseIpi>50</BaseIpi>
+      <AliquotaIpi>0.1</AliquotaIpi>
+      <ValorIpi>5</ValorIpi>
+      <Desconto>0.1</Desconto>
+    </NotaFiscalItem>
+    <NotaFiscalItem>
+      <Id>0</Id>
+      <IdNotaFiscal>0</IdNotaFiscal>
+      <Cfop>6.004</Cfop>
+      <TipoIcms>10</TipoIcms>
+      <BaseIcms>200</BaseIcms>
+      <AliquotaIcms>0.17</AliquotaIcms>
+      <ValorIcms>34</ValorIcms>
+      <NomeProduto>rack</NomeProduto>
+      <CodigoProduto>530</CodigoProduto>
+      <BaseIpi>200</BaseIpi>
+      <AliquotaIpi>0</AliquotaIpi>
+      <ValorIpi>0</ValorIpi>
+      <Desconto>0.1</Desconto>
+    </NotaFiscalItem>
+  </ItensDaNotaFiscal>
+</NotaFiscal>
